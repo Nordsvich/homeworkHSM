@@ -12,3 +12,15 @@ Classify news to one of 5 categories based on text
 1. Choose and argue your measure of a test's accuracy.
 2. Build data processing and classification pipeline
 3. Tune  your model;
+
+
+Deadline: 10th June
+
+Data:
+https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only/overview
+
+The task:
+
+1. Choose and argue your measure of a test's accuracy.
+2. Build data processing and classification pipeline; Please compare word-embeddings vs classical methods 
+3. Tune  your model;
